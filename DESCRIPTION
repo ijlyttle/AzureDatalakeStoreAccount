@@ -2,7 +2,8 @@ Package: AzureDatalakeStoreAccount
 Title: REST API Client for Microsoft Azure Data Lake Store (Account)  
 Version: 0.0.0.9000
 Authors@R: c(
-  person(given = "Ian", family = "Lyttle", email = "ian.lyttle@schneider-electric.com", role = c("aut", "cre"))
+  person(given = "Ian", family = "Lyttle", email = "ian.lyttle@schneider-electric.com", role = c("aut", "cre")),
+  person("Schneider Electric", role = c("cph", "fnd"))
   )
 Description: This is a REST API Client for Microsoft Azure Data Lake Store.
 Depends: R (>= 3.3.2)
