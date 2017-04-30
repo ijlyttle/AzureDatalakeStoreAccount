@@ -6,7 +6,6 @@
 #' @return logical indicating success to delete account
 #' @examples
 #' \dontrun{
-#'   library("httr")
 #'   library("AzureOAuth")
 #'
 #'   # assumes this is an Azure native app.
